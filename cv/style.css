@@ -1,0 +1,22 @@
+body{
+  /*font-family: sans-serif;*/
+}
+
+.pecture img{
+  width: 22%;
+  height: 22%;
+  border-radius: 30%;
+}
+
+.cv hr{
+  float: none;
+}
+.cv  img{
+  width: 1.5%;
+  height: 1.5%;
+
+}
+.media img{
+  width: 3%;
+  height: 3%;
+}
